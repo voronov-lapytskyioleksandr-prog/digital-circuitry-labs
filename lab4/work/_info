@@ -1,0 +1,82 @@
+m255
+K3
+13
+cModel Technology
+Z0 dZ:\altera\13.1\lab5
+vEx2_OR
+Z1 !s100 I9AfREkaR6a0]_5S2gigY1
+Z2 Imc@TniE]AFmECQV9H20V[2
+Z3 VYfliPh^TfB6O=FTZ0CUe30
+Z4 dZ:\altera\13.1\lab4
+Z5 w1781602483
+Z6 8Z:/altera/13.1/lab4/Ex2_name_OR.v
+Z7 FZ:/altera/13.1/lab4/Ex2_name_OR.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|Z:/altera/13.1/lab4/Ex2_name_OR.v|
+Z10 o-work work -O0
+Z11 n@ex2_@o@r
+!i10b 1
+!s85 0
+Z12 !s108 1781607143.696000
+Z13 !s107 Z:/altera/13.1/lab4/Ex2_name_OR.v|
+!s101 -O0
+vfunc_assign
+!i10b 1
+Z14 !s100 zKUne38ze5CJ@?3DL?3h70
+Z15 IbgP`LM5L_1]]eRZTUWE6;1
+Z16 V8F:nQ@4nNOaEAT:iLD4=Q1
+R4
+Z17 w1781607108
+Z18 8Z:/altera/13.1/lab4/my_func.v
+Z19 FZ:/altera/13.1/lab4/my_func.v
+L0 2
+R8
+r1
+!s85 0
+31
+Z20 !s108 1781607143.939000
+Z21 !s107 Z:/altera/13.1/lab4/my_func.v|
+Z22 !s90 -reportprogress|300|-work|work|Z:/altera/13.1/lab4/my_func.v|
+!s101 -O0
+R10
+vfunc_struct
+!i10b 1
+Z23 !s100 D[ok3;7mJ_PoVYR0I@H8o2
+Z24 IH@1=fM4m@N76j6]Fc]Vz01
+Z25 V6ISBWiWi?G>f3YndhW0RQ2
+R4
+R17
+R18
+R19
+L0 9
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+vtop_level
+!i10b 1
+Z26 !s100 QcnX3fT8TkFb>672=Nm9F0
+Z27 I;E7f6F_lin]MTd:1kF7G@3
+Z28 VPoC^n`zdnM2ao_=LYH[;l3
+R4
+R17
+R18
+R19
+L0 27
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
