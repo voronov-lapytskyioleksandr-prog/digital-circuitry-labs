@@ -1,0 +1,17 @@
+Z:/altera/13.1/lab4/my_func.v {1 {vlog -work work Z:/altera/13.1/lab4/my_func.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module func_assign
+-- Compiling module func_struct
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} Z:/altera/13.1/lab4/Ex2_name_OR.v {1 {vlog -work work Z:/altera/13.1/lab4/Ex2_name_OR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}
